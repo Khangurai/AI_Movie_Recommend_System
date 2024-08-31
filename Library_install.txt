@@ -1,0 +1,6 @@
+conda install jupyter pandas numpy scikit-learn streamlit
+pip install cohere python-dotenv deep-translator streamlit
+pip install faiss-gpu
+conda install -c conda-forge faiss-gpu
+conda install -c pytorch faiss-gpu
+conda install -c conda-forge pillow

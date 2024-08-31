@@ -1,0 +1,16 @@
+*.pkl
+
+/Source
+
+.env
+
+.idea
+
+/venu
+
+*.xml
+
+/Model_train/MRS(NeuralNine_YT)/index/
+
+
+
